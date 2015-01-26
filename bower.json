@@ -1,0 +1,24 @@
+{
+  "name": "edmunds-comfigurator-sdk",
+  "version": "0.0.1",
+  "homepage": "https://github.com/EdmundsWidgets/com.edmunds.configurator.sdk",
+  "authors": [
+    "Ivan Kauryshchanka <Ivan_Kauryshchanka@epam.com>"
+  ],
+  "description": "configurator for widgets",
+  "main": "components/configurator",
+  "keywords": [
+    "edmunds",
+    "configurator",
+    "sdk"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
