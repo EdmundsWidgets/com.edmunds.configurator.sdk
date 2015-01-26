@@ -6,7 +6,7 @@
     "Ivan Kauryshchanka <Ivan_Kauryshchanka@epam.com>"
   ],
   "description": "configurator for widgets",
-  "main": "components/configurator",
+  "main": "components/configurator/section",
   "keywords": [
     "edmunds",
     "configurator",
