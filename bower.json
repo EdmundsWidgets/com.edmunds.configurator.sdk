@@ -1,5 +1,5 @@
 {
-  "name": "edmunds-comfigurator-sdk",
+  "name": "edmunds-configurator-sdk",
   "version": "0.0.1",
   "homepage": "https://github.com/EdmundsWidgets/com.edmunds.configurator.sdk",
   "authors": [
@@ -13,7 +13,6 @@
     "sdk"
   ],
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
